@@ -1,2 +1,2 @@
 # QtAutocomplete
-implement autocomplete using Qt5
+Implement autocomplete using Qt5
